@@ -7,13 +7,16 @@ Usage Instructions:
 Running the Simulation:
 
 Input the desired parameters (lattice size, temperatures, iterations, etc.) into the GUI fields.
-Press the Run Simulation button to start the process.
+Press the Run Simulation button to start the process. In addition, this software supports parallel computing, and you can specify the number of CPU cores yourself.
 
 Customization:
 
 Background image can be customized by replacing the background.jpg file used in the GUI.
+
 Data Saving:
 
 Results, including final lattice states and magnetization data, are automatically saved in the specified directory.
+
+
 
 ![Example](images/Ising_test.jpg)
