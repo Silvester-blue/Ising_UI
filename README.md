@@ -23,4 +23,10 @@ Results, including final lattice states and magnetization data, are automaticall
 
 Example
 ============
-![Example](images/Ising_test.jpg)
+<p align="center">
+    <img src="images/Ising_test.jpg"  width="500"/>
+</p>
+    
+<p align="center">
+    <i>An example of software parameters</i>
+</p>
