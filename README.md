@@ -1,4 +1,4 @@
-# Ising_UI
+
 Introduction
 ============
 This program provides a graphical interface for the Metropolis algorithm of the Ising model.
